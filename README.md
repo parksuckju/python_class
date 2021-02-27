@@ -1,8 +1,8 @@
 # python_class
 suckju's house
 =============
-a=10
-print(a)
+> a=10
+>>print(a)
 print(type(a))
 b="hello my name is suckju "
 print(b)
